@@ -55,7 +55,7 @@ Cine-Mate는 사용자 취향에 맞는 영화를 추천해주는 Java 기반 �
 ## 설치 및 설정  
 1. **레포지토리 클론**  
    ```bash
-   git clone https://github.com/Seoning/cine-mate.git
+   git clone https://github.com/gyseon/cine-mate.git
    cd cine-mate
 2. **API 키 설정**   
    ```bash
