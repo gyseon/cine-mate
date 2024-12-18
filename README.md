@@ -1,5 +1,5 @@
 
-  <img src="https://render.gitanimals.org/lines/Seoning?pet-id=654188443304852967" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/gyseon?pet-id=654188443304852967" width="1000" height="120"/>
 
 
 # Cine-Mate  
