@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Movie Recommendations</title>
+</head>
+<body>
+<h1>추천 영화 리스트</h1>
+<ul>
+
+    moveis!!!!!!!!!!!!!!!!!!!!
+    <li th:each="movie : ${movies}">
+        <strong th:text="${movie.title}">영화 제목</strong> -
+        <span th:text="${movie.overview}">줄거리</span>
+    </li>
+</ul>
+</body>
+</html>
